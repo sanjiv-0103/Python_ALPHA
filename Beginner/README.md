@@ -1,0 +1,29 @@
+# Python Fundamentals Notes
+
+- **Variables** - Variables store values, e.g. `name = "Sanjiv"`.
+- **Expressions and Statements** - Expressions produce values, statements perform actions.
+- **Comments** - Use `#` for single-line comments in Python.
+- **Data Types** - Common types: `int`, `float`, `str`, `bool`, `list`, `tuple`, `dict`, `set`.
+- **Operators** - Symbols used to perform operations on values.
+- **Arithmetic Operators** - `+`, `-`, `*`, `/`, `%`, `**`, `//`.
+- **Comparison Operators** - `==`, `!=`, `>`, `<`, `>=`, `<=`.
+- **Boolean Operators** - `and`, `or`, `not`.
+- **Bitwise Operators** - `&`, `|`, `^`, `~`, `<<`, `>>`.
+- **is & in Operators** - `is` checks identity, `in` checks membership.
+- **Ternary Operator** - Short form of if-else.
+- **Strings** - Sequences of characters written inside quotes.
+- **Escaping Characters** - `\n`, `\t`, `\"`, `\'`, `\\`.
+- **String Slicing** - Access characters using indexes and slices like `text[0:3]`.
+- **Booleans** - `True` and `False`.
+- **Built-in Functions** - `len()`, `max()`, `min()`, `sum()`, `type()`, `range()`.
+- **User Input** - `input()` reads data entered by the user.
+- **Control Statements** - `if`, `elif`, `else`.
+- **Lists** - Ordered and mutable collections.
+- **Sorting Lists** - `sort()` sorts a list in place.
+- **Tuples** - Ordered and immutable collections.
+- **Dictionaries** - Store key-value pairs.
+- **Sets** - Store unique values.
+- **Functions** - Reusable blocks of code using `def`.
+- **Nested Functions** - A function defined inside another function.
+- **Loops** - `for` and `while`.
+- **Break and Continue** - `break` stops a loop, `continue` skips the current iteration.
